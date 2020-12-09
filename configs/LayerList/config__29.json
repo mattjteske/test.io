@@ -1,0 +1,51 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "mapNotes_9352": {
+      "display": true
+    },
+    "mapNotes_9352_3": {
+      "display": true
+    },
+    "mapNotes_9352_2": {
+      "display": true
+    },
+    "mapNotes_9352_1": {
+      "display": true
+    },
+    "mapNotes_9352_0": {
+      "display": true
+    },
+    "mapNotes_3948": {
+      "display": true
+    },
+    "mapNotes_3948_3": {
+      "display": true
+    },
+    "mapNotes_3948_2": {
+      "display": true
+    },
+    "mapNotes_3948_1": {
+      "display": true
+    },
+    "mapNotes_3948_0": {
+      "display": true
+    },
+    "gpx_464_0": {
+      "display": true
+    }
+  }
+}
